@@ -63,6 +63,8 @@ THE SOFTWARE.
 
 german-impressum
 
+ng-responsive-navbar
+
 regenerator-runtime
 MIT
 MIT License
